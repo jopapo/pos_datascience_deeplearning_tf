@@ -1,3 +1,8 @@
+# Virtual environment and jupyter data
+.venv
+.data
+.vector_cache
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
