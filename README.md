@@ -7,3 +7,5 @@ Aluno: João Poffo
 # Notebook
 
 [Trabalho Final](td_dl.ipynb)
+
+A segunda análise é a que entrega melhor acurácia.
